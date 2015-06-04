@@ -1,5 +1,5 @@
 export var toolbar = `<div class="toolbar">
-	<a href="#" class="logo">HIPSTEARCH</a>
+	<a href="#" class="logo">ARTWORK</a>
 		<form><input type="search"></form>		
 				</div>`
 

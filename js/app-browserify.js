@@ -62,25 +62,3 @@ var EtsyRouter = backbone.Router.extend({
 })
 
 var router = new EtsyRouter()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
