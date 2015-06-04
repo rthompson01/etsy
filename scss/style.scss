@@ -49,8 +49,8 @@
 }
 
 @mixin gridify 2, 400 {}
-@mixin gridify 4, 600 {}
-
+@mixin gridify 4, 800 {}
+@mixin gridify 6, 1024 {}
 /**
  * PACE (automatic pre-loader thingy)
  */
@@ -88,3 +88,15 @@ img {
 /**
  * YOUR CODE HERE
  */
+.container {
+    max-width: 1024px;
+    padding: 2rem;
+    margin: auto;
+}
+.toolbar {
+    overflow: auto;
+    .logo {
+        display: inline-block;
+        padding: .5 1.5rem
+    }
+}
